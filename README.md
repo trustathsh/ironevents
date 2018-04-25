@@ -5,7 +5,7 @@ In the case you want easily use a iron project that emits events, you can import
 
 If you use an iron project, just look in the pom dependencies to clearify if the iron project use ironevents.
 
-If you like to build ironvas EventsToAMQP by your own you can use the
+If you like to build ironevents by your own you can use the
 latest code from the [GitHub repository][githubrepo].
 
 
@@ -60,7 +60,7 @@ If you have any questions, problems or comments, please contact
 
 LICENSE
 =======
-ironevents is licensed under the [Apache License, Version 2.0] [5].
+ironevents is licensed under the [Apache License, Version 2.0] [1].
 
 
 Note
@@ -70,7 +70,5 @@ ironevents is an experimental prototype and is not suitable for productive use.
 
 Feel free to fork/contribute.
 
-[3]: http://www.trustedcomputinggroup.org/developers/trusted_network_connect
-[4]: https://github.com/trustathsh
-[5]: http://www.apache.org/licenses/LICENSE-2.0.html
+[1]: http://www.apache.org/licenses/LICENSE-2.0.html
 [githubrepo]: https://github.com/trustathsh/ironevents
